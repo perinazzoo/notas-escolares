@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas Escolares</string>
+    <string name="txt_n1">Nota 1</string>
+    <string name="txt_n2">Nota 2</string>
+    <string name="btn_calc">Calcular</string>
+    <string name="btn_clear">Limpar</string>
+    <string name="txt_avrg">Média</string>
+    <string name="txt_situation">Situação</string>
+    <string name="txt_avg_value">0</string>
+    <string name="txt_approved">Aprovado</string>
+    <string name="txt_recovery">Recuperação</string>
+    <string name="txt_disapproved">Reprovado</string>
+    <string name="txt_error">Digite um número</string>
+</resources>

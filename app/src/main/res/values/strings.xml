@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">School Grades</string>
+    <string name="txt_n1">Grade 1</string>
+    <string name="txt_n2">Grade 2</string>
+    <string name="btn_calc">Calculate</string>
+    <string name="btn_clear">Clear</string>
+    <string name="txt_avrg">Average</string>
+    <string name="txt_situation">Situation</string>
+    <string name="txt_avg_value">0</string>
+    <string name="txt_approved">Approved</string>
+    <string name="txt_recovery">Recovery</string>
+    <string name="txt_disapproved">Disapproved</string>
+    <string name="txt_error">Type a number</string>
+</resources>
